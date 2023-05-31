@@ -1,6 +1,6 @@
 let playlist = [ {
   'title': 'Radio OpeningZoone',
-  'url': "http://stream.zeno.fm/5re2v0xtbrruv",
+  'audio url': "http://stream.zeno.fm/5re2v0xtbrruv",
 } ];
 i = 0;
 n = playlist.length;
