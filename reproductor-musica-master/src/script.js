@@ -1,13 +1,7 @@
 let playlist = [ {
-  'title': 'Here it Comes - TrackTribe',
-  'audio': "assets/Here it Comes - TrackTribe.mp3",
-}, {
-  'title': 'Mulholland - King Canyon',
-  'audio': "assets/Mulholland - King Canyon.mp3",
-}, {
-  'title': 'Losing My Mind - NEFFEX',
-  'audio': "assets/Losing My Mind - NEFFEX.mp3",
-} ];
+  'title': 'Radio OpeningZoone',
+  'audio': "http://stream.zeno.fm/5re2v0xtbrruv",
+}];
 i = 0;
 n = playlist.length;
 let player = document.getElementById( 'player' );
